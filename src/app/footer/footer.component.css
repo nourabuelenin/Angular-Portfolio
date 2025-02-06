@@ -1,0 +1,36 @@
+.footer {
+    background-color: #222;
+    color: white;
+    padding: 20px 0;
+    margin-top: 50px;
+  }
+  
+  .contact-info p, .social-icons a {
+    font-size: 18px;
+  }
+  
+  .contact-info i {
+    color: #007bff;
+    margin-right: 10px;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: flex-end; /* Align to the right */
+    gap: 15px;
+  }
+  
+  .social-icons a {
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: #007bff;
+  }
+  
+  .copyright {
+    margin-top: 20px;
+  }
+  
