@@ -1,7 +1,5 @@
-# Angular-Projects
-One of my first Angular projects, exploring core concepts like components, data binding, routing, and Bootstrap integration. 🚀
-
 # AngularPortfolio
+One of my first Angular projects, exploring core concepts like components, data binding, routing, and Bootstrap integration. 🚀
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
 
